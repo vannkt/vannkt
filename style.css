@@ -7,10 +7,12 @@
 
 .container {
     width: 100%;
-    min-height: 100vh;
-    background: linear-gradient(135deg, #153677, #4e085f);
+    height: 100vh;
+   background-image: url("images/bkround.png");
     padding: 10px;
-    ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
 }
 
 .todo-app {
